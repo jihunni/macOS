@@ -6,7 +6,7 @@
   $ source ~/.bash_profile
   ```
 
-# alias in zsh shell
+# alias in zsh shell - MacOS
   ```
    $ vi ~/.zshrc
   alias life1='ssh -Y ***.**.**.**'
