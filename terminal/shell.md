@@ -1,0 +1,4 @@
+# shell
+  ```
+  cat /etc/shells
+  ```
