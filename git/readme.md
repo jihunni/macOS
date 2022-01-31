@@ -1,0 +1,1 @@
+- How to save your Github username in password on Mac using Keychain [Youtube](https://www.youtube.com/watch?v=qQNXe-fP_Ek&ab_channel=GinaSprint)
