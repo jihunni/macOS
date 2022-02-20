@@ -5,6 +5,6 @@
 - On terminal,
   ```
   fuser -c /Users/jihun/Life3 # To assign a mount point in MacOS
-  sshfs jihun@xxx.xx.xx.xx:/home/jihun /Users/jihun/Life1 # To connect through sshfs protocol
+  sshfs -o volname=Life1 jihun@xxx.xx.xx.xx:/home/jihun /Users/jihun/Life1 # To connect through sshfs protocol
   ```
 - 
