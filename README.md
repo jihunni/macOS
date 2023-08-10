@@ -21,3 +21,5 @@
 
 - iTerm2
   - theme setting : https://ooeunz.tistory.com/21 
+- anaconda
+- docker
