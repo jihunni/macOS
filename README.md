@@ -23,3 +23,6 @@
   - theme setting : https://ooeunz.tistory.com/21 
 - anaconda
 - docker
+
+# Install Window11 Arm
+Youtube link: https://www.youtube.com/watch?v=KGZMV8IuUtA
