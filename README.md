@@ -25,4 +25,5 @@
 - docker
 
 # Install Window11 Arm
-Youtube link: https://www.youtube.com/watch?v=KGZMV8IuUtA
+- Youtube link: https://www.youtube.com/watch?v=KGZMV8IuUtA
+- Window11 Arm download : https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewarm64
