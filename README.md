@@ -17,7 +17,8 @@
 	```
 	brew upgrade llvm
 	brew upgrade gcc
-	```
+	brew install wget
+ 	```
 
 - iTerm2
   - theme setting : https://ooeunz.tistory.com/21 
